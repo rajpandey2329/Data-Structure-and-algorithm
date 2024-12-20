@@ -1,4 +1,4 @@
-*********************************Data Structures and Algorithms in Python*****************************************  
+*********************************Data Structures and Algorithms in Python
 
 Data structures and algorithms are essential for efficient programming. Python offers built-in data structures and libraries, making it ideal for implementing various algorithms.  
 
